@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: Brain Break 2021
 layout: event
 
 ---
