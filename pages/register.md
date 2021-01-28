@@ -12,7 +12,7 @@ Welcome to Brain Break presented by the OWASP Foundation. Please note that this 
 
 {% else %}
 <br>
-### Registration is closed.
+### Registration will be open soon! Please check back.
 <br>
 {% endif %}
 
