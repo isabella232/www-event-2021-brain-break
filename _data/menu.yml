@@ -4,8 +4,8 @@
   items:
     - title: Schedule
       url : /schedule/
-    #- title: Keynotes
-    #  url : /
+    - title: Featured Entertainer
+      url : /keynotes/
     #- title: Training
       #url : /
     #- title: Call for Speakers/Trainers
