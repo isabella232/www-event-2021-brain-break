@@ -1,6 +1,6 @@
 ---
 
-title: Keynotes
+title: Featured Entertainer
 layout: event_noheader
 permalink: /program/keynotes/
 
