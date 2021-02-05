@@ -1,7 +1,7 @@
 ---
 
 title: Sponsors & Exhibitors
-layout: event_noheader
+layout: event
 permalink: /sponsors/
 
 ---
