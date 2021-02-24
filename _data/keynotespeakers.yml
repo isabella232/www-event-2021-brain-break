@@ -1,7 +1,7 @@
-- image: person_jeff_shaw.jpg
-  name : Jeff Shaw
-  title: Comedian
-  bio  : <p>Jeff is a stand-up comic. His writing is marked both by idealism and humanity. His stimulating satire is often infused with a singular poetic beauty. More importantly, he looks like Jane Lynch! Over the past three decades, Jeff has performed nearly 9,000 shows across North America and the Caribbean, including a residency in Las Vegas. In 2009, Jeff helped launch The Punchliner Comedy Club chain for Carnival Cruise Lines. Jeff is also a former staff writer for American Greetings Corporation, responsible for hundreds of funny greeting cards and novelty items for the company's Cards Department. He has been featured on Comedy Central, America's Got Talent and SiriusXM Radio.</p>
+#- image: person_jeff_shaw.jpg
+#  name : Jeff Shaw
+#  title: Comedian
+ # bio  : <p>Jeff is a stand-up comic. His writing is marked both by idealism and humanity. His stimulating satire is often infused with a singular poetic beauty. More importantly, he looks like Jane Lynch! Over the past three decades, Jeff has performed nearly 9,000 shows across North America and the Caribbean, including a residency in Las Vegas. In 2009, Jeff helped launch The Punchliner Comedy Club chain for Carnival Cruise Lines. Jeff is also a former staff writer for American Greetings Corporation, responsible for hundreds of funny greeting cards and novelty items for the company's Cards Department. He has been featured on Comedy Central, America's Got Talent and SiriusXM Radio.</p>
   #subject:
   #abstract:
 #- image: staff_alonna.jpg
