@@ -1,20 +1,6 @@
-#- image: person_jeff_shaw.jpg
-#  name : Jeff Shaw
-#  title: Comedian
- # bio  : <p>Jeff is a stand-up comic. His writing is marked both by idealism and humanity. His stimulating satire is often infused with a singular poetic beauty. More importantly, he looks like Jane Lynch! Over the past three decades, Jeff has performed nearly 9,000 shows across North America and the Caribbean, including a residency in Las Vegas. In 2009, Jeff helped launch The Punchliner Comedy Club chain for Carnival Cruise Lines. Jeff is also a former staff writer for American Greetings Corporation, responsible for hundreds of funny greeting cards and novelty items for the company's Cards Department. He has been featured on Comedy Central, America's Got Talent and SiriusXM Radio.</p>
+- image: /images/keynotes/Richard Sarvate.png
+  name : Richard Sarvate
+  title: Comedian
+  bio: <p>Richard Sarvate quit tech to do stand up… oops! He started performing in San Francisco in 2011. He talks about his experience as a first-generation Indian immigrant, relationships, and why he left Silicon Valley. He has a half-hour special on Dry Bar Comedy. His albums “Live in San Francisco” and “Live at The Setup” are available on Spotify, Pandora, and can be heard regularly on SiriusXM's Comedy Channels. He has headlined comedy clubs throughout the US & Canada. While on tour in India he appeared on their national program NDTV’s “Stars of Comedy”</p>
   #subject:
   #abstract:
-#- image: staff_alonna.jpg
-  #name: Alonna Stock
-  #title: Executive Director
-  #bio: <p>Descriptive bio text.</p>
-  #subject: 
-  #abstract: 
-  #style: background-repeat:no-repeat;
-#- image: staff_harold.jpg
-  #name: Harold Blankenship
-  #title: Director of Technology and Projects
-  #bio: <p>Descriptive bio text.</p> 
-  #subject:  
-  #abstract:
-  #style: background-repeat:no-repeat;
