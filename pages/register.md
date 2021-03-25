@@ -12,7 +12,7 @@ Welcome to Brain Break presented by the OWASP Foundation. Please note that this 
 
 {% else %}
 <br>
-### Registration will be open soon! Please check back.
+[REGISTER HERE](https://www.eventbrite.com/e/brain-break-featuring-comedian-richard-sarvate-tickets-147653707213)
 <br>
 {% endif %}
 
